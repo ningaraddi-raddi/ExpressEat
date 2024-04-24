@@ -1,21 +1,19 @@
-<h1 align="center"><b> Hello, my name is Express Eat. Ready to give you some delectable meals <b></h1>
-<h1 align="center"><a href='https://tianmeds.github.io/ExpressEat/'>Express Eat</a></h1>
-<p align="center">This is my Recipe Website that i developed. </p>
-<br>
-  <h2><em>Tech Stack of the Website</em></h2>
-<ul>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>JavaScript Front-End & Back-end</li>
-  <li>Google Script (Database) </li>
-  <li>cdnjs</li>
-</ul>
-<h3 align="center">Desktop View </h3>
-<img align="center" src="https://raw.githubusercontent.com/TianMeds/ExpressEat/main/img/DesktopScreenHome.png">
-<img align="center" src="https://raw.githubusercontent.com/TianMeds/ExpressEat/main/img/DesktopScreenAbout.png">
-<img align="center" src="https://raw.githubusercontent.com/TianMeds/ExpressEat/main/img/DesktopScreenContact.png">
-<br>
-<h3 align="center"> Mobile View </h3>
-<img align="center" src="https://raw.githubusercontent.com/TianMeds/ExpressEat/main/img/MobileScreenHome.png">
-<img align="center" src="https://raw.githubusercontent.com/TianMeds/ExpressEat/main/img/MobileScreenAbout.png">
-<img align="center" src="https://raw.githubusercontent.com/TianMeds/ExpressEat/main/img/MobileScreenContact.png">
+# Recipe Hub
+
+## Description
+Recipe Hub is a community-driven platform where users can discover, share, and explore a wide variety of recipes. Whether you're a cooking enthusiast or a novice in the kitchen, Recipe Hub provides an extensive collection of recipes for every taste and occasion.
+
+## Features
+- **Recipe Discovery:** Browse through a diverse collection of recipes from various cuisines and categories.
+- **Search and Filter:** Easily find recipes by searching for specific keywords or filtering by dietary preferences, meal types, and more.
+- **Recipe Details:** View detailed information for each recipe, including ingredients, instructions, cooking time, and serving size.
+- **Recipe Ratings and Reviews:** Rate and review recipes based on your cooking experience and share feedback with the community.
+- **User Profiles:** Create a user profile to save your favorite recipes, create recipe collections, and follow other users.
+- **Recipe Sharing:** Share your own recipes with the community by uploading them to Recipe Hub and contributing to the culinary inspiration.
+- **Responsive Design:** Enjoy a seamless browsing experience on any device with Recipe Hub's responsive design.
+
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
+
